@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karskorsantaksi.github.io/sitemap.xml

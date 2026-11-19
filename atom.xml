@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kars Korsan Taksi | Harakani Havalimanı, Ani, Sarıkamış</title>
+  <link href="https://karskorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://karskorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://karskorsantaksi.github.io/</id>
+  <updated>2026-11-19T17:30:36.096Z</updated>
+  <author><name>Kars Korsan Taksi</name></author>
+  <entry>
+    <title>Kars Korsan Taksi | Harakani Havalimanı, Ani, Sarıkamış</title>
+    <link href="https://karskorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://karskorsantaksi.github.io/</id>
+    <updated>2026-11-19T17:30:36.096Z</updated>
+    <summary>Kars korsan taksi hattı: Harakani Havalimanı merkezden 6 km, Ani Harabeleri, Sarıkamış kayak merkezi, Çıldır Gölü, Kağızman ve Digor yolu. Ücret baştan.</summary>
+  </entry>
+</feed>
